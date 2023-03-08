@@ -1,0 +1,38 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+  name: John Critchlow
+  tagline: Full Stack Developer
+  avatar: profile.png
+
+  email: codingcritch90@gmail.com
+  linkedin: johncritchlow
+  github: JohnCritch90
+  twitter: 'codingcritch90'
+  instagram: 'codingcritch1990'
+
+  language:
+    idiom: English
+    level: Native
+  
+education:
+
+  high school: Francis Howell Central High school
+  college: Central Methodist University
+  graduate school: Kansas State University (1 semester)
+  bootcamp: 4Geeks Academy (TBD)
+
+experiences:
+
+  Cole County R-1 School District 2016 - 2017 (1 year)
+  Cooper County R-1 School District 2017-2018 (1 year) 
+  Keytesville R-3 School District 2018 - 2020 (2 years)
+  New Franklin R-1 School District 2020 - 2023 (3 years)
+
+skills:
+
+  leadership: 50%
+  organization: 40%
+  public speaking: 10%
